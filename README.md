@@ -65,9 +65,9 @@ The goal is simple:
 
 ## Ressources
 
-- [Demo:](link)
-- [Tutorial:](link)
-- [Medium Article:](link)
+- [Demo:](https://moseschirusha.github.io/day_4_icon_based_info)
+- [Tutorial:](https://youtu.be/0pYeXKuL7gc)
+- [Medium Article:](https://moseschirusha.medium.com/day-4-90-breaking-illiteracy-barriers-with-code-4a644728d3b2)
 
 ## Built With
 
