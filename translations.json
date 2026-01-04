@@ -1,0 +1,34 @@
+{
+  "en": {
+    "wash_hands": "Wash hands with soap before eating",
+    "clean_water": "Drink clean or boiled water",
+    "fever": "Visit a clinic if fever lasts more than two days",
+    "vaccines": "Get vaccinated against common diseases",
+    "sanitation": "Use a latrine or toilet",
+    "hygiene": "Practice good hygiene habits"
+  },
+  "fr": {
+    "wash_hands": "Lavez-vous les mains avec du savon avant de manger",
+    "clean_water": "Buvez de l'eau propre ou bouillie",
+    "fever": "Allez au centre de santé si la fièvre dure plus de deux jours",
+    "vaccines": "Prenez les vaccins contre les maladies courantes",
+    "sanitation": "Utilisez une latrine ou un toilette",
+    "hygiene": "Pratiquez les bonnes habitudes d'hygiène"
+  },
+  "sw": {
+    "wash_hands": "Nawa mikono kwa sabuni kabla ya kula",
+    "clean_water": "Kunywa maji safi au yaliyochemshwa",
+    "fever": "Tembelea kituo cha afya ikiwa homa itaendelea zaidi ya siku mbili",
+    "vaccines": "Piga vashini kwa mafunzo ya kawaida",
+    "sanitation": "Tumia mizigo au mizigo",
+    "hygiene": "Wakumbusha mafunzo ya hifadhi"
+  },
+  "es": {
+    "wash_hands": "Lava las manos con jabón antes de comer",
+    "clean_water": "Bebe agua limpia o hervida",
+    "fever": "Visita un centro de salud si la fiebre dura más de dos días",
+    "vaccines": "Vacúnate contra enfermedades comunes",
+    "sanitation": "Usa un letrín o un inodoro",
+    "hygiene": "Practica hábitos de higiene"
+  }
+}

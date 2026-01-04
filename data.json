@@ -1,0 +1,8 @@
+[
+  { "icon": "🧼", "key": "wash_hands" },
+  { "icon": "💧", "key": "clean_water" },
+  { "icon": "🤒", "key": "fever" },
+  { "icon": "💉", "key": "vaccines" },
+  { "icon": "🚻", "key": "sanitation" },
+  { "icon": "🚮", "key": "hygiene" }
+]
